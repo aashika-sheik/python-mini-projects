@@ -1,4 +1,4 @@
-# python-mini-projects
+
 # 🐍 Python Mini Projects
 
 This repository contains a collection of Python mini projects that cover different programming concepts and problem-solving exercises.  

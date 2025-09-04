@@ -7,12 +7,12 @@ This repository contains a collection of Python mini projects that cover differe
 
 ## 📂 Project Structure
 - **Day 1: Basics**
-  - ✅ BMI Calculator  
-  - ✅ Temperature Converter  
-  - ✅ Age Calculator  
-  - ✅ Word Counter  
-  - ✅ Simple Calculator  
-  - ✅ Vowel & Consonant Counter  
+  - BMI Calculator  
+  - Temperature Converter  
+  - Age Calculator  
+  - Word Counter  
+  - Simple Calculator  
+  - Vowel & Consonant Counter  
 
 (More projects will be added gradually.)
 

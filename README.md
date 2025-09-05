@@ -6,6 +6,7 @@ This repository contains a collection of Python mini projects that cover differe
 ---
 
 ## 📂 Project Structure
+
 - **Day 1: Basics**
   - BMI Calculator  
   - Temperature Converter  
@@ -13,6 +14,19 @@ This repository contains a collection of Python mini projects that cover differe
   - Word Counter  
   - Simple Calculator  
   - Vowel & Consonant Counter  
+
+- **Day 2: Intermediate**
+  - Largest of Three Numbers  
+  - Sum of First n Numbers  
+  - Reverse a Number  
+  - Count Digits in a List  
+  - Prime Numbers up to 100  
+  - Fibonacci Sequence Generator  
+
+- **Day 3: Functions & Data Handling**
+  - Student Grade Calculator  
+  - Custom Math Module  
+  - Recursive Palindrome Checker  
 
 (More projects will be added gradually.)
 
